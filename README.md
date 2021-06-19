@@ -1,4 +1,4 @@
-# preguntas-y-respuestas-con-model-Bert
+# Preguntas-y-respuestas-con-model-Bert
 el código funciona para introducirle texto y hacerle preguntas de ese mismo texto, funciona genial.
 prácticamente introduce en el campo (contexto = '------')
 formula tu pregunta en el campo (pregunta = '------')
